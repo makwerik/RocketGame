@@ -5,7 +5,7 @@
 Нажми на картинку,чтобы посмотреть
 
 
-[play.webm](https://github.com/makwerik/RocketGame/blob/master/img/unknown_2024.03.15-20.06_clip_1.mp4)
+[play.webm](https://github.com/makwerik/RocketGame/blob/master/img/unknown_2024.03.15-20.06_clip_1)
 
 
 
